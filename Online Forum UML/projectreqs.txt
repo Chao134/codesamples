@@ -1,0 +1,26 @@
+There is a website that hosts discussion forums. A person first needs to be a registered user on the website before they can participate in one or more forums. A user does not necessarily have to be a member of any forum.
+
+The website hosts several forums.
+Each forum has one or more members.
+
+Members of a forum can:
+post messages to the forum
+read messages posted by other members to the forum, filtered and/or sorted by message author, thread, or date
+leave a forum
+Each message is part of a discussion thread. It can be the initiating message for a new thread, or a response to a previous message in a thread
+
+Users on the website can:
+create new forums
+join an existing forum as member
+Every forum has a single owner, who is initially the creator of the forum. The creator of a forum automatically becomes its first member.
+Each forum has one moderator, who is initially the creator of the forum. Only a forum member can be its moderator.
+
+Owners can:
+invite users to join their forum by sending them an email invitation
+invite a member to be the moderator - if the invitation is accepted, the new moderator replaces the current moderator
+invite a member to take over ownership - if the invitation is accepted, the ownership is transferred to that member
+delete the forum
+
+Moderators can:
+deny or pass through messages posted to the forum by members
+resign as moderator by sending an email to the owner, at which point the owner becomes the moderator
